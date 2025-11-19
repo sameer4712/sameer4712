@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center" style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=415E72&center=true&vCenter=true&width=600&lines=Hi+I'm+Sameer;MERN+Stack+Developer;Full-Stack+Web+Developer;Next+%7C+Node+%7C+React+Enthusiast;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=2B3467&center=true&vCenter=true&width=600&lines=Hi+I'm+Sameer;MERN+Stack+Developer;Full-Stack+Web+Developer;Next+%7C+Node+%7C+React+Enthusiast;Welcome+to+my+GitHub!">
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 
-## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:26px">About Me</pre>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=27&letterSpacing=0.1rem&duration=1&pause=1000&color=E62727D3&width=435&lines=About+Me)](https://git.io/typing-svg)
 
 <p style="font-family: 'Comic Sans MS'; font-size: 15px; line-height: 22px;">
   <pre style="font-weight: 900; font-size:22px;">
@@ -21,7 +21,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 </p>
 
 
-## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:26px">Tech Stack</pre>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=27&letterSpacing=0.1rem&duration=1&pause=1000&color=E62727D3&width=435&lines=Tech+Stack)](https://git.io/typing-svg)
 
 ### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Frontend</pre>
 <p>
@@ -39,7 +39,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 </p>
 
 
-## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">GitHub Analytics</pre> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=27&letterSpacing=0.1rem&duration=1&pause=1000&color=E62727D3&width=435&lines=GitHub+Analytics)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sameer4712&show_icons=true&theme=tokyonight&hide_border=true" height="160px" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer4712&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
@@ -50,7 +50,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 
 
 
-## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:26px">What I Do</pre>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=27&letterSpacing=0.1rem&duration=1&pause=1000&color=E62727D3&width=435&lines=What+I+Do)](https://git.io/typing-svg)
 
 <p style="font-family: 'Kode Mono', monospace; font-size: 15px; line-height: 22px;">
   <pre style="font-weight: 900; font-size:22px;">
@@ -63,7 +63,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 </p>
 
 
-## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:26px">Connect With Me</pre>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=27&letterSpacing=0.1rem&duration=1&pause=1000&color=E62727D3&width=435&lines=Connect+With+Me)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
