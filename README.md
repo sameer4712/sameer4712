@@ -39,30 +39,14 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 </p>
 
 
-<!-- GitHub Analytics -->
-<pre align="center" style="font-family: 'Mozilla Headline', sans-serif; font-weight: 900; font-size: 26px;">
-  GitHub Analytics
-</pre>
-
-<pre align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sameer4712&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
-    height="165" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer4712&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
-    height="165"
-  />
-</pre>
-
-<pre align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=sameer4712&theme=tokyonight&hide_border=true&border_radius=15" 
-    height="180"
-  />
-</pre>
-
-<hr style="border: 0; height: 1px; background: #444; width: 80%; margin: 30px auto;">
+## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">GitHub Analytics</pre> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameer4712&show_icons=true&theme=tokyonight&hide_border=true" height="160px" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer4712&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+</p> 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sameer4712&theme=tokyonight&hide_border=true" /> 
+</p>
 
 
 
