@@ -9,35 +9,37 @@
 </p>
 
 
-## <span style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">About Me</span>
+## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">About Me</pre>
 
 <p style="font-family: 'Comic Sans MS'; font-size: 15px; line-height: 22px;">
-Passionate <b>MERN Stack Developer</b><br>
-Loves building <b>clean, modern, beautiful UI</b><br>
-Focused on <b>performance, scalability & user experience</b><br>
-Always learning <b>Next.js, System Architecture, and Cloud Deployments</b>
+  <pre>
+Passionate MERN Stack Developer<br>
+Loves building clean, modern, beautiful UI<br>
+Focused on performance, scalability & user experience<br>
+Always learning Next.js, System Architecture, and Cloud Deployments
+    </pre>
 </p>
 
 
-## <span style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">Tech Stack</span>
+## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900;">Tech Stack</pre>
 
-### <span style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">Frontend</span>
+### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900;">Frontend</pre>
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,js,ts" />
 </p>
 
-### <span style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">Backend</span>
+### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900;">Backend</pre>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
 </p>
 
-### <span style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">Tools</span>
+### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900;">Tools</pre>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,supabase" />
 </p>
 
 
-## <span style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">GitHub Analytics</span>
+## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">GitHub Analytics</pre>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sameer4712&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
@@ -49,18 +51,20 @@ Always learning <b>Next.js, System Architecture, and Cloud Deployments</b>
 </p>
 
 
-## <span style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">What I Do</span>
+## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">What I Do</pre>
 
 <p style="font-family: 'Kode Mono', monospace; font-size: 15px; line-height: 22px;">
-- Build <b>full-stack MERN apps</b><br>
-- Implement <b>JWT, Google OAuth, secure authentication</b><br>
-- Create <b>responsive & animated UI</b><br>
-- Design <b>REST APIs & backend systems</b><br>
-- Deploy apps on <b>Vercel / Render</b>
+  <pre>
+- Build full-stack MERN apps<br>
+- Implement JWT, Google OAuth, secure authentication<br>
+- Create responsive & animated UI<br>
+- Design REST APIs & backend systems<br>
+- Deploy apps on Vercel / Render
+  </pre>
 </p>
 
 
-## <span style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">Connect With Me</span>
+## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Connect With Me</pre>
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
