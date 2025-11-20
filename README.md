@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-00FFFF?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 
@@ -26,7 +26,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 
 ### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Frontend</pre>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,js,ts" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" />
 </p>
 
 ### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Backend</pre>
