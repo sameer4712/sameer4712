@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-00FFFF?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=sameer4712&style=for-the-badge&color=blueviolet" />
 </p>
 
 
